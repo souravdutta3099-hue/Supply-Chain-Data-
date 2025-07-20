@@ -4,7 +4,7 @@ Supply Chain Data Supply Chain Performance Dashboard
 •	Includes PBIX file with KPIs, pies, combos, maps—ideal base for cards (e.g. Avg Defect Rate), pie charts (Fail Inspection by product), line-column visuals, slicers, and treemaps GitHub+2ProjectPro+2GitHub+2GitHub+4GitHub+4GitHub+4.
 Supply chain dashboard using powerbi
 •	Contains cards like Total Revenue, Total Products Sold, etc., plus slicers for Location & Demographics, treemaps for product type/carriers/mode, and combo charts for revenue & quantities GitHub.
-🛠️ 2. Step by step setup to recreate/fork into your GitHub
+🛠️ Step by step setup to recreate/fork into your GitHub
 Step 1: Clone a repo as your starter
 bash
 CopyEdit
@@ -44,9 +44,9 @@ Step 8: Publish to GitHub
 2.	Add supporting files like README.md, dataset CSV, and a screenshot.
 3.	Push to your own new GitHub repo.
 4.	Include instructions: how to open, dataset source, explanation of visuals.
-📌 3. Additional references & tutorials
+📌  Additional references & tutorials
      Supply Chain Management Dashboard Power Bi – autolinking SQL
-✅ 4. Wrapping it all up
+✅   Wrapping it all up
 To summarize:
 1.	Fork & customize visuals to match your listed metrics.
 2.	Build the DAX measures and interactive visuals step by step.
